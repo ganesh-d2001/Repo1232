@@ -190,10 +190,7 @@ hr.fullcontent
             		</td>
 	</tr>
     <tr>
-                <td bgcolor="#f0f0f0" width="20%"><b>Original Estimate:</b></td>
-		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
-                            Not Specified
-            		</td>
+    
     </tr>
     
     </table>
