@@ -147,10 +147,7 @@ hr.fullcontent
         
                     <td bgcolor="#f0f0f0" width="20%">
                 <b>Assignee:</b>
-            </td>
-            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
-                                    Unassigned
-                            </td>
+ 
             </tr>
     	<tr>
 		<td bgcolor="#f0f0f0" width="20%">
